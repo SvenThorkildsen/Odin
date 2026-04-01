@@ -1,0 +1,6 @@
+{
+  "image_size": 256,
+  "threshold": 0.1916414670646191,
+  "percentile_threshold": 95.0,
+  "num_train_images": 20
+}
